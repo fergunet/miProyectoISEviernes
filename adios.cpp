@@ -1,6 +1,6 @@
-#include <basura>
+#include <basura.h>
 
-int main((((())){
-	System.out.println("JA");
+int main(){
+	cout<<"Adios"<<endl
 
 }
